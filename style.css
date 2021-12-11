@@ -276,10 +276,7 @@ header .header-output {
         width: calc(35% - 20px) !important;
     }
 
-    .index-boxlink-rec {
-        width: calc(65% - 20px) !important;
-        
-    }
+
 
     .index-links div h3 {
         font-size: 25px;
