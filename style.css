@@ -224,7 +224,7 @@ header .header-output {
 }
 
 .index-links div h3 {
-    font-family: Roboto;
+    font-family: Poppins;
     font-weight: 800px;
     font-style: bold;
     font-size: 24px;
@@ -273,7 +273,7 @@ header .header-output {
     }
 
     .index-boxlink-sq {
-        width: calc(35% - 20px) !important;
+        width: calc(25% - 20px) !important;
     }
 
 
