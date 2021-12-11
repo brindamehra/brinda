@@ -171,6 +171,7 @@ header .header-output {
    header nav ul li a {
        line-height: 60px;
        font-size: 18px; 
+       padding-right: 25px;
    }
 
 }
