@@ -409,6 +409,16 @@ header .header-output {
 }
 
 
+@media only screen and (max-width:900px) {
+
+    .about-me .col-left, .about-me .col-right {
+        width:100%;
+        height: 50%;
+        float: left;
+    }   
+
+    
+
 
 
 /* PROJECTS */
