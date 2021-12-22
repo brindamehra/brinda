@@ -723,6 +723,35 @@ header .header-output {
 
 }
 
+.next-btn {
+    padding: 30px;
+    font-family: "Poppins";
+}
+
+.next-btn .back {
+        text-decoration: none;
+        display: inline-block;
+        padding: 8px 16px;
+        text-align: center;
+        margin: 0 auto;
+      }
+      
+      a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+      
+      
+      .back {
+        background-color: #45a29e;
+        color: white;
+      }
+      
+      .round {
+        border-radius: 50%;
+      
+}
+
 
 
 @media only screen and (max-width:740px) {
