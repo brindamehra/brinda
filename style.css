@@ -289,7 +289,7 @@ header .header-output {
     .index-banner {
     background-position: center;
     height: calc(100vh - 100px);
-    background-image:url(imgs/Background.gif);
+    background-image:url(imgs/Background 2.gif);
     }
 
     .index-banner h1 {
@@ -374,7 +374,6 @@ header .header-output {
 
 .about-me .col-right h4 {
    text-align: center;
-    text-transform: capitalize;
     font-family: Poppins;
     font-size: 29px;
     color: black;
